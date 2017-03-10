@@ -26,6 +26,8 @@ Write a SQL query for a report that provides the following information for each 
 
 FirstName, LastName, City, State
 
+Note:考察两个表的链接。
+
 ---------------------------------------------------------------------------------------------
 
 SELECT
